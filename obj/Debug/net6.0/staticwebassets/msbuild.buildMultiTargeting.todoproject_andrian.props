@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\todoproject_andrian.props" />
+</Project>
